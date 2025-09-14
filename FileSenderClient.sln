@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileSenderClient", "FileSenderClient\FileSenderClient.csproj", "{F7CFE74E-1247-45B2-BF30-41FB102FEFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileReceiverServer", "FileReceiverServer\FileReceiverServer.csproj", "{1597442D-6351-4311-BF1F-667747558AE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CFE74E-1247-45B2-BF30-41FB102FEFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CFE74E-1247-45B2-BF30-41FB102FEFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CFE74E-1247-45B2-BF30-41FB102FEFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CFE74E-1247-45B2-BF30-41FB102FEFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1597442D-6351-4311-BF1F-667747558AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1597442D-6351-4311-BF1F-667747558AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1597442D-6351-4311-BF1F-667747558AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1597442D-6351-4311-BF1F-667747558AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
